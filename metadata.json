@@ -1,0 +1,6 @@
+{
+  "name": "O-Logic TMS",
+  "description": "B2B SaaS Logistic & Route Optimization Platform with VRP engine constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
